@@ -1,0 +1,22 @@
+
+.jumbotron{
+	color: white;
+	background-image: url(dagingSapi.jpg);
+	height: 350px;
+	width: 100%;
+}
+
+.jumbotron .display-4{
+	margin-top: 15px;
+}
+
+.jumbotron hr{
+	border-color: white;
+	width: 400px;
+	border-width: 3px;
+}
+
+.navbar .navbar-nav .nav-link{
+	color: white;
+}
+
